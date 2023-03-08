@@ -1,0 +1,7 @@
+compose/
+logs/
+plugins/
+.wallet/
+dags/
+airflow.sh
+create_s3_connection.sh
