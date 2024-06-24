@@ -109,7 +109,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-docker-compose.yaml
 .env
 .venv
 env/
